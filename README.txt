@@ -28,7 +28,7 @@ Example.py shows how to set up the connections with the IMU and the eye Tracker,
 2) On the IMU/Stimuli computer: launch example.py to test that the connections are working.
 
 Step 1 is always required, even when writing your own code.
-Make sure the IMU port is corrected set up in the unified framework header section (line 26 of unified_framework.py)
+Make sure the IMU port is correctly set up in the unified framework header section (line 26 of unified_framework.py)
 the current value is set to IMU_TTY = '/dev/ttyUSB0'
 
 
